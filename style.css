@@ -46,7 +46,7 @@
 
 @media (max-width:900px) {
     .block {
-    color: red;
+    color: lavender;
     grid-template-columns: repeat(2,1fr);
     border-radius: 10px 30px;
     }
